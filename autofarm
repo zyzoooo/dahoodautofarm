@@ -1,0 +1,5 @@
+_G.AutofarmSettings = { 
+    Fps = 30,
+    Saver = true,
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zyzoooo/atm/refs/heads/main/autofarm"))()
